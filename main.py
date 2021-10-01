@@ -3,11 +3,7 @@ from tkinter import *
 
 from random import choice
 
-
-
 lis=["green","blue","red","black","white","yellow","orange","grey","brown","purple","red"]
-
-
 
 root=Tk()
 root.geometry("1040x1900")
@@ -40,6 +36,7 @@ def make():
     texts(500,height)
     texts(700,height)
     texts(900,height)
+    texts(1000,height)
 
 
 while height < 1900:
