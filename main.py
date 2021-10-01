@@ -4,7 +4,7 @@ from tkinter import *
 from random import choice
 
 
-lis=["green","blue","red","black","white","yellow","orange","grey",brown"]
+lis=["green", "blue", "red", "black", "white", "yellow", "orange", "grey", "brown"]
 
 
 root=Tk()
